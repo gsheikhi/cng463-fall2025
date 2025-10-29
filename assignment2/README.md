@@ -2,8 +2,18 @@
 
 This folder contains the template notebook for Assignment 2.
 
-## Files
-- `assignment2_template.ipynb` - Main assignment template (Open in Google Colab)
+---
 
-## Instructions
-See the main assignment notebook for detailed instructions.
+## Quick Start
+
+Open notebook directly in Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[YOUR-USERNAME]/[YOUR-REPO-NAME]/blob/main/assignment2/assignment2_template.ipynb)
+
+Then: `File → Save a copy in Drive`
+
+---
+
+## Submission
+All assignments must be submitted via **ODTUClass only**.  
+Email submissions receive 0 points.
