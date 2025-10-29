@@ -11,7 +11,7 @@ Build n-gram language models, implement language identification with cross-valid
 ## Quick Start
 Open notebook directly in Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/[github/gsheikhi/cng463-fall2025/tree/main/assignment2](https://github.com/gsheikhi/cng463-fall2025/blob/main/assignment2/assignment2_template.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gsheikhi/cng463-fall2025/blob/main/assignment2/assignment2_template.ipynb)
 
 Then: `File → Save a copy in Drive`
 
