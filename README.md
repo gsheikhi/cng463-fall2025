@@ -2,6 +2,7 @@
 ## Course Assignments (Fall 2025-26)
 
 **Instructor**: Ghazaal Sheikhi 
+
 **Institution**: METU NCC Computer Engineering
 
 ---
