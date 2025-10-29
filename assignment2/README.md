@@ -9,7 +9,7 @@ This folder contains the template notebook for Assignment 2.
 Build n-gram language models, implement language identification with cross-validation, and compare with state-of-the-art models.
 
 ## Quick Start
-> 💡 Right-click or Ctrl/⌘-click “Open in Colab” to open in a new tab.
+Right-click or Ctrl/⌘-click to open in a new tab.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gsheikhi/cng463-fall2025/blob/main/assignment2/assignment2_template.ipynb)
 
