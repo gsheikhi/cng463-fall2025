@@ -11,7 +11,7 @@
 
 - **[Assignment 1](assignment1/)** - Automated Translation & Language Identification (PDF report)
 - **[Assignment 2](assignment2/)** - N-grams & Language Modeling (Colab notebook)
-- **Assignment 3** - Coming soon
+- **[Assignment 3](assignment3/)**- PoS Tagging and Text Generation by HMMs (Colab notebook)
 - **Assignment 4** - Coming soon
 
 ---
