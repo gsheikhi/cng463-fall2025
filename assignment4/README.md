@@ -18,5 +18,5 @@ Then: `File → Save a copy in Drive`
 ## Submission
 - **Format**: PDF export of completed notebook + .ipynb file
 - **Platform**: ODTUClass only (email submissions receive 0 points)
-- **Due Date**: 25 December 2025 (Thursday) before midnight
+- **Due Date**: 26 December 2025 (Friday) before midnight
 - **Late Submission**: Receive 0 points
